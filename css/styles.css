@@ -57,7 +57,7 @@ h2 {
 /* banner */
 #main-banner {
   height: 70vh;
-  background-image: url('../img/bg.jpg');
+  background-image: url('../img/bg.webP');
   background-size: cover;
   padding-top: 15vh;
 }
@@ -78,7 +78,6 @@ h2 {
 }
 
 #banner-info img {
-  height: 120px;
   border-radius: 50%;
   background-color: #6d6ddf;
   margin-top: 30px;
@@ -215,25 +214,25 @@ h2 {
 }
 
 .proj1 {
-  background-image: url('../img/Home.jpg');
+  background-image: url('../img/Home.webP');
 }
 
 .proj2 {
-  background-image: url('../img/Buscas.jpg');
+  background-image: url('../img/Buscas.webP');
 }
 
 .proj3 {
-  background-image: url('../img/Filme.jpg');
+  background-image: url('../img/Filme.webP');
 }
 
 .proj4 {
-  background-image: url('../img/MeusFilmes.jpg');
+  background-image: url('../img/MeusFilmes.webP');
 }
 .proj5 {
-  background-image: url('../img/JogoNada.jpg');
+  background-image: url('../img/JogoNada.webP');
 }
 .proj6 {
-  background-image: url('../img/JogoFinal.jpg');
+  background-image: url('../img/JogoFinal.webP');
 }
 
 /* footer */
